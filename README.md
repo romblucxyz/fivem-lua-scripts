@@ -1,7 +1,7 @@
 # romblucxyz/fivem-lua-scripts
 ### The repo of custom made, client-sided LUA scripts for fivem
 ***
-### This repo was made entirely by ChatGPT and all scripts are binded to key `E`  
+### These scripts were made entirely by ChatGPT and all of them are binded to key `E`  
 ### You can change the activation keybind by modifying the first line of the script with the key's code
 ***
 ## The Scripts
